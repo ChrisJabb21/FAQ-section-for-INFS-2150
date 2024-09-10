@@ -1,4 +1,4 @@
-# FAQ-section-for-INFS-2150❔ 
+# FAQ-section-for-INFS-2150❔🙋🏻 
 <p>Markdown reference page for FAQ section for frequently asked questions for course INFS-2150 taught at RMU. (More questions to be added as time progresses or per student suggestion and feedback)</p>
 <p>Images were annotated with Microsoft Paint 3D 🪟🎨</p>
 
