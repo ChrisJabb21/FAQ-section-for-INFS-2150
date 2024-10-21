@@ -29,3 +29,16 @@ Below is a step-by-step example of how to upload files for a homework assignment
 
 
 If you do all your coding assignments for a specific chapter or submission, you can have each file (images, CSS, HTML, JS, etc, all the files from the chapter datasets provided by Cengage and the files you need to edit) in a single folder (name_chapter/tutorial_number) with all your files or having each specific part of an assignment in a separate folder (e.g. name_and_number_of_assignment)
+
+
+**Question 2**: Where and how do I get the data files needed for each chapter or tutorial of the current textbook (Carey) needed for each assignment and to follow along with the book?
+
+**Answer**: Go to the following content folder highlighted in the image below to get to the link needed
+
+![image](https://github.com/user-attachments/assets/b2edf2c7-ab03-4656-a30f-2bd7059672a9)
+
+
+Next you will want to select the chapter number of the assignment you are on to download the dataset zip files needed for each chapter-specific assignment as seen below:
+![image](https://github.com/user-attachments/assets/7a4de78a-a767-4729-ba0d-275a6a8f90b6)
+
+
